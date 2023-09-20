@@ -44,37 +44,37 @@ Tasks
 
 0. push, pall
 
-mandatory
+- mandatory
 
 Implement the push and pall opcode.
    
 1. pint
 
-mandatory
+- mandatory
 
 Implement the pint opcode.
 
 2. pop
 
-mandatory
+- mandatory
 
 Implement the pop opcode.
    
 3. swap
 
-mandatory
+- mandatory
 
 Implement the swap opcode.
    
 4. add
 
-mandatory
+- mandatory
 
 Implement the add opcode.
    
 5. nop
 
-mandatory
+- mandatory
 
 Implement the nop opcode.
    
